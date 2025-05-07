@@ -1,0 +1,16 @@
+{
+  "name": "@repo/tailwind-config",
+  "version": "1.0.0",
+  "main": "tailwind.config.ts",
+  "license": "MIT",
+  "peerDependencies": {
+    "tailwindcss": "^3.4.1",
+    "postcss": "^8.4.30",
+    "autoprefixer": "^10.4.17"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.1",
+    "postcss": "^8.4.30",
+    "autoprefixer": "^10.4.17"
+  }
+}
